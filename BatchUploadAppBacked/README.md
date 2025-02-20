@@ -1,7 +1,9 @@
 # Project Documentation: Batch Upload System
 
 ## Overview
-This project implements a **batch upload system** using **Laravel (backend)** and **React.js (frontend)**. Users can upload an Excel file containing batch records, which are processed and stored in the database.
+This project implements a **batch upload system** using **Laravel (backend)** and **React.js (frontend)**.
+
+Users can upload an Excel file containing batch records, which are processed and stored in the database.
 
 ## Tech Stack
 - **Backend**: Laravel (API-based architecture)
